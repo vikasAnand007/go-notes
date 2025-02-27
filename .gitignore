@@ -1,0 +1,8 @@
+# Ignore Go build artifacts at any level
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.test
