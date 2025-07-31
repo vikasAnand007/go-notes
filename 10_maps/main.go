@@ -34,7 +34,7 @@ func main() {
 	clear(m2)
 	fmt.Println("m2", m2)
 
-	// intialised slice
+	// intialised map
 	m3 := map[string]bool{"isAdmin": false, "isVerified": true}
 	fmt.Println("m3", m3)
 
